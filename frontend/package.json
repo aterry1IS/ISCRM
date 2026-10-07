@@ -1,0 +1,19 @@
+{
+  "name": "intrepid-stays-frontend",
+  "version": "1.0.0",
+  "description": "Frontend application for Intrepid Stays Executive Launch Dashboard",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+    "vite": "^4.0.0"
+  }
+}
